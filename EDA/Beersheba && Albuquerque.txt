@@ -1,0 +1,11 @@
+Beersheba is the largest city in the Negev desert of southern Israel. 
+Often referred to as the "Capital of the Negev", it is the center of the fourth-most populous metropolitan area in Israel.
+
+
+Albuquerque, New Mexico’s largest city, sits in the high desert.
+Its modern Downtown core contrasts with Old Town Albuquerque, dating to the city’s 1706 founding as a Spanish colony.
+
+In the attached notebook an exploratory data analysis was performed for these cities on the weather dataset!
+
+CONTRIBUTOR : P Alagu Prakalya
+              HDSC22
